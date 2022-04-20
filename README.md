@@ -5,6 +5,6 @@
 
 # 使用畫面
 example
-![image] (https://github.com/TawaOuO/StockApp/blob/master/tec.JPG)
+![image](https://github.com/TawaOuO/StockApp/blob/master/tec.JPG)
 result
-![image] (https://github.com/TawaOuO/StockApp/blob/master/result.JPG)
+![image](https://github.com/TawaOuO/StockApp/blob/master/result.JPG)
