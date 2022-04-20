@@ -9,4 +9,4 @@
 選擇條件<br>
 ![image](https://github.com/TawaOuO/StockApp/blob/master/using.JPG)<br>
 結果<br>
-![image](https://github.com/TawaOuO/StockApp/blob/master/result.JPG)<br>
+![image](https://github.com/TawaOuO/StockApp/blob/master/fin.JPG)<br>
