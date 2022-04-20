@@ -4,5 +4,7 @@
 因伺服器已關閉，目前僅有一份固定的資料，無每日更新。
 
 # 使用畫面
-![image] https://github.com/TawaOuO/StockApp/blob/master/tec.JPG
-![image] https://github.com/TawaOuO/StockApp/blob/master/result.JPG
+example
+![image] (https://github.com/TawaOuO/StockApp/blob/master/tec.JPG)
+result
+![image] (https://github.com/TawaOuO/StockApp/blob/master/result.JPG)
