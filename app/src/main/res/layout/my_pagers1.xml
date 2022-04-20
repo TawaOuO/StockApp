@@ -1,0 +1,163 @@
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<!--    <TextView-->
+<!--        android:id="@+id/textView1"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="@string/textview"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent" />-->
+
+    <Button
+        android:id="@+id/chip_foreign_investor_buyout_3days"
+        android:layout_width="120dp"
+        android:layout_height="60dp"
+        android:background="@drawable/bg_long_btn"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="100dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:text="@string/foreign_investor_buyout_3days_button"
+        android:textColor="#000000"
+        android:textSize="14sp"
+        android:layout_marginStart="60dp" />
+
+    <Button
+        android:id="@+id/chip_foreign_investor_buyout_5days"
+        android:layout_width="120dp"
+        android:layout_height="60dp"
+        android:background="@drawable/bg_long_btn"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="200dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:text="@string/foreign_investor_buyout_5days_button"
+        android:textColor="#000000"
+        android:textSize="14sp"
+        android:layout_marginStart="60dp" />
+
+    <Button
+        android:id="@+id/chip_investment_trust_buyout_3days"
+        android:layout_width="120dp"
+        android:layout_height="60dp"
+        android:background="@drawable/bg_long_btn"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="300dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:text="@string/investment_trust_buyout_3days_button"
+        android:textColor="#000000"
+        android:textSize="14sp"
+        android:layout_marginStart="60dp" />
+
+    <Button
+        android:id="@+id/chip_investment_trust_buyout_5days"
+        android:layout_width="120dp"
+        android:layout_height="60dp"
+        android:background="@drawable/bg_long_btn"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="400dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:text="@string/investment_trust_buyout_5days_button"
+        android:textColor="#000000"
+        android:textSize="14sp"
+        android:layout_marginStart="60dp" />
+
+    <Button
+        android:id="@+id/chip_foreign_investor_soldout_3days"
+        android:layout_width="120dp"
+        android:layout_height="60dp"
+        android:background="@drawable/bg_short_btn"
+        android:layout_marginLeft="230dp"
+        android:layout_marginTop="100dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:text="@string/foreign_investor_soldout_3days_button"
+        android:textColor="#000000"
+        android:textSize="14sp"
+        android:layout_marginStart="230dp" />
+
+    <Button
+        android:id="@+id/chip_foreign_investor_soldout_5days"
+        android:layout_width="120dp"
+        android:layout_height="60dp"
+        android:background="@drawable/bg_short_btn"
+        android:layout_marginLeft="230dp"
+        android:layout_marginTop="200dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:text="@string/foreign_investor_soldout_5days_button"
+        android:textColor="#000000"
+        android:textSize="14sp"
+        android:layout_marginStart="230dp" />
+
+    <Button
+        android:id="@+id/chip_investment_trust_soldout_3days"
+        android:layout_width="120dp"
+        android:layout_height="60dp"
+        android:background="@drawable/bg_short_btn"
+        android:layout_marginLeft="230dp"
+        android:layout_marginTop="300dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:text="@string/investment_trust_soldout_3days_button"
+        android:textColor="#000000"
+        android:textSize="14sp"
+        android:layout_marginStart="230dp" />
+
+    <Button
+        android:id="@+id/chip_investment_trust_soldout_5days"
+        android:layout_width="120dp"
+        android:layout_height="60dp"
+        android:background="@drawable/bg_short_btn"
+        android:layout_marginLeft="230dp"
+        android:layout_marginTop="400dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:text="@string/investment_trust_soldout_5days_button"
+        android:textColor="#000000"
+        android:textSize="14sp"
+        android:layout_marginStart="230dp" />
+
+    <View
+        android:id="@+id/under_index1"
+        android:layout_width="420dp"
+        android:layout_height="50dp"
+        android:padding="0dp"
+        android:background="#9D9D9D"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+<!--    <TextView-->
+<!--        android:id="@+id/text_choosenum"-->
+<!--        android:layout_width="410dp"-->
+<!--        android:layout_height="50dp"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        android:text="@string/choosenum_0_text"-->
+<!--        android:textColor="#000000"-->
+<!--        android:textSize="30sp"-->
+<!--        android:gravity="center_vertical|left"-->
+<!--        tools:ignore="MissingConstraints,RtlHardcoded" />-->
+
+    <Button
+        android:id="@+id/pickend1"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:background="@drawable/bg_pickup_btn"
+        android:text="@string/Yes"
+        android:textColor="#000000"
+        android:textSize="28sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
