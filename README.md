@@ -4,7 +4,9 @@
 因伺服器已關閉，目前僅有一份固定的資料，無每日更新。<br>
 
 # 使用畫面
-example<br>
-![image](https://github.com/TawaOuO/StockApp/blob/master/tec.JPG)<br>
-result<br>
+首頁<br>
+![image](https://github.com/TawaOuO/StockApp/blob/master/home.JPG)<br>
+選擇條件<br>
+![image](https://github.com/TawaOuO/StockApp/blob/master/using.JPG)<br>
+結果<br>
 ![image](https://github.com/TawaOuO/StockApp/blob/master/result.JPG)<br>
